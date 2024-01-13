@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/enzo basuil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enzo basuil" height="30" width="40" /></a>
+<a href=["https://fb.com/enzo basuil"](https://www.facebook.com/profile.php?id=100009418086548) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enzo basuil" height="30" width="40" /></a>
 <a href="https://instagram.com/suillygram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suillygram" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/enzo basuil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enzo basuil" height="30" width="40" /></a>
 </p>
