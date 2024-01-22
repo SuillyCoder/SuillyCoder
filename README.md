@@ -30,7 +30,6 @@
 <a href="https://www.facebook.com/profile.php?id=100009418086548" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enzo basuil" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suillygram/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suillygram" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCqDybNN-X6vLOPSQk3OicWw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enzo basuil" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/SuillyCoder/badges/large" target="_blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
