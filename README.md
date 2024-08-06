@@ -6,19 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suillycoder&label=Profile%20views&color=0e75b6&style=flat" alt="suillycoder" /> </p>
 
-- 🔭 I’m currently working on [A simple friend catalog which has many JavaScript-heavy elements. It's also been recently deployed.](https://suillycoder.github.io/Enzos-Friend-Catalog/)
+- 🔭 I’m currently working on: Data Analysis projects in Jupyter Notebooks.
 
-- 🌱 I’m currently learning **C++ OOP, Data Structures and Algorithms, and other WebDev Stuff**
+- 🌱 I’m currently learning: OOP in Java, Statistics and Data Analysis, and App Development using React and Next
 
 - 👯 I’m looking to collaborate on **(N/A atm)**
 
-- 🤝 I’m looking for help with **Understanding how the field of software works**
+- 🤝 I’m looking for help with: Understanding the job roles and market of Data Science and App Development
 
 - 👨‍💻 All of my projects are available at [N/A (But i'll have one soon)](N/A (But i'll have one soon))
 
 - 🖌 I also like to do digital art on my art page [https://www.facebook.com/profile.php?id=100086811566717](https://www.facebook.com/profile.php?id=100086811566717)
 
-- 💬 Ask me about **Web Development, Games & Media, Study Practices,etc.**
+- 💬 Ask me about **Data Analytics, Playstation Games, Study Practices, etc.**
 
 - 📫 How to reach me **jlcbasuil@gmail.com**
 
