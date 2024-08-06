@@ -29,7 +29,7 @@
 My Codewars Badge:
 
 ![image](https://www.codewars.com/users/SuillyCoder/badges/large)
-https://www.facebook.com/profile.php?id=100009418086548
+
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/jesus-lorenzo-basuil-b9150431b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus lorenzo basuil" height="30" width="40" /></a>
