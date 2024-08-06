@@ -1,8 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Enzo Basuil</h1>
-<h3 align="center">Just a regular ol' BS CpE Student getting his hands on Data Analysis, Application Development, and other software jazz.<br>
-  Still far from where I need to be but made some progress so far. Let's see how this is gonna go....</h3>
+<h3 align="center">Just a regular ol' BS CpE Student getting his hands on Data Analysis, Application Development, and other software jazz. <br> Still far from where I need to be but made some progress so far. Let's see how this is gonna go....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suillycoder&label=Profile%20views&color=0e75b6&style=flat" alt="suillycoder" /> </p>
 
