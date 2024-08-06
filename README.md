@@ -50,6 +50,5 @@ My Codewars Badge:
 ---
 [![](https://visitcount.itsvg.in/api?id=SuillyCoder&icon=2&color=0)](https://visitcount.itsvg.in)
 
-
-<a href="https://linkedin.com/in/jesus lorenzo basuil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus lorenzo basuil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jesus-lorenzo-basuil-b9150431b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus lorenzo basuil" height="30" width="40" /></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
