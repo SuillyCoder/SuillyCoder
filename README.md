@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Enzo Basuil</h1>
+<h1 align="center">Hi 👋, I'm Enzo Basui</h1>
 <h4 align="center">Just a regular ol' BS CpE Student getting his hands on Data Analysis, Application Development, and other software jazz. </h4>
 <h4 align="center">Still far from where I need to be but made some progress so far. Let's see how this is gonna go....</h4>
 
