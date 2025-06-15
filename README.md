@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [N/A (But i'll have one soon)](N/A (But i'll have one soon))
 
-- 🖌 I also like to do digital art on my art page [https://www.facebook.com/profile.php?id=100086811566717](https://www.facebook.com/profile.php?id=100086811566717)
+- 🖌 I also like to do digital art on my art page [https://www.artstation.com/suillustrative](https://www.artstation.com/suillustrative)
 
 - 💬 Ask me about **Data Analytics, Playstation Games, Study Practices, etc.**
 
