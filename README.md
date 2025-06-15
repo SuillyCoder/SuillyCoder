@@ -1,6 +1,6 @@
 <h1 align="center">Heya, there! 👋</h1>
 <h2 align = "center">I'm Enzo Basuil</h2>
-<img width="1039" alt="Screenshot 2025-06-15 at 8 47 43 AM" src="https://github.com/user-attachments/assets/3e631544-7528-49ce-82b1-f77c4bcc355d" />
+<img width="1038" alt="Screenshot 2025-06-15 at 8 47 51 AM" src="https://github.com/user-attachments/assets/d96f859d-de2d-44dc-948a-8a422b6410a6" />
 <h4 align="center">Just a regular ol' BS CpE Student getting his hands on Data Analysis, Application Development, and other software jazz. </h4>
 <h4 align="center">Still far from where I need to be but made some progress so far. Let's see how this is gonna go....</h4>
 
