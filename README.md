@@ -1,4 +1,4 @@
-<h1 align="center">Heya, there! 👋</h1>
+<h1 align="center">👋 Heya, there! 👋</h1>
 <h2 align = "center">I'm Enzo Basuil</h2>
 <img width="1038" alt="Screenshot 2025-06-15 at 8 47 51 AM" src="https://github.com/user-attachments/assets/d96f859d-de2d-44dc-948a-8a422b6410a6" />
 </br>
@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on: An artist training assistant app made to help artists hone their art skills in a fun way: https://github.com/SuillyCoder/Artistic-Regimen-Trainer-A.R.T-.git
 
-- 🌱 I’m currently learning: OOP in Java, Statistics and Data Analysis, and App Development using React and Next
+- 🌱 I’m currently learning: Logic Circuits and Design, Application Architecture, Data Analytics, and Project Management Strategies.
 
 - 👯 I’m looking to collaborate on **(N/A atm)**
 
-- 🤝 I’m looking for help with: Understanding the job roles and market of Data Science and App Development
+- 🤝 I’m looking for help with: Understanding the trends of the job market and the best ways to put your foot at the door.
 
 - 👨‍💻 All of my projects are available at [N/A (But i'll have one soon)](N/A (But i'll have one soon))
 
 - 🖌 I also like to do digital art on my art page: [https://www.artstation.com/suillustrative](https://www.artstation.com/suillustrative)
 
-- 💬 Ask me about **Data Analytics, Playstation Games, Study Practices, etc.**
+- 💬 Ask me about **Fullstack Development, Project Management Skills, Playstation Games, etc.**
 
 - 📫 How to reach me **jlcbasuil@gmail.com**
 
