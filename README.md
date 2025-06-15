@@ -29,7 +29,13 @@
 
 ## My Codewars Badge:
 
+## My Codewars Badge:
+
+<div align="center">
+
 ![image](https://www.codewars.com/users/SuillyCoder/badges/large)
+
+</div>
 
 
 # 🌐 Socials:
