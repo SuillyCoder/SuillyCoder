@@ -7,8 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suillycoder&label=Profile%20views&color=0e75b6&style=flat" alt="suillycoder" /> </p>
 
-- 🔭 I’m currently working on: An artist training assistant app made to help artists hone their art skills in a fun way.
-- You can view the project here: https://github.com/SuillyCoder/Artistic-Regimen-Trainer-A.R.T-.git
+- 🔭 I’m currently working on: An artist training assistant app made to help artists hone their art skills in a fun way: https://github.com/SuillyCoder/Artistic-Regimen-Trainer-A.R.T-.git
 
 - 🌱 I’m currently learning: OOP in Java, Statistics and Data Analysis, and App Development using React and Next
 
