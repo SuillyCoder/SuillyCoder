@@ -1,8 +1,11 @@
 <h1 align="center">Heya, there! 👋</h1>
 <h2 align = "center">I'm Enzo Basuil</h2>
 <img width="1038" alt="Screenshot 2025-06-15 at 8 47 51 AM" src="https://github.com/user-attachments/assets/d96f859d-de2d-44dc-948a-8a422b6410a6" />
-<h4 align="center">Just a regular ol' BS CpE Student getting his hands on Data Analysis, Application Development, and other software jazz. </h4>
-<h4 align="center">Still far from where I need to be but made some progress so far. Let's see how this is gonna go....</h4>
+
+<h4 align="center">I'm a 21 year old Cebuano student dev who's currently pursuing a Bachelor of Science in Computer Engineering</h4>
+<h4 align="center">Currently, I'm delving into the fields of full-stack development, data analysis and data science, systems architecture, and project management. </h4>
+<h4 align="center">I've got a year and some months worth of programming and development experience, and there's still more to come.</h4>
+<h4 align="center">Might be far from where I wanna be, but it's been a good ride so far. Let's see how further we can go...</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suillycoder&label=Profile%20views&color=0e75b6&style=flat" alt="suillycoder" /> </p>
 
