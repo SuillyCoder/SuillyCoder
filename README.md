@@ -33,7 +33,6 @@
 
 ![image](https://www.codewars.com/users/SuillyCoder/badges/large)
 
-</div>
 
 
 # 🌐 Socials:
@@ -41,6 +40,9 @@
 <a href="https://www.kaggle.com/jesuslorenzobasuil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/work" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009418086548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009418086548" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suillygram/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suillygram/?hl=en" height="30" width="40" /></a>
+
+</div>
+
 
 # 💻 Tech Stack:
 
