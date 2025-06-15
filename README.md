@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I have the coexisting mind of a 7 year old and a 70 year old. Why? Don't ask.**
 
-My Codewars Badge:
+## My Codewars Badge:
 
 ![image](https://www.codewars.com/users/SuillyCoder/badges/large)
 
