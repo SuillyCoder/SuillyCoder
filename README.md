@@ -1,5 +1,4 @@
-<img width="1038" alt="Screenshot 2025-06-15 at 8 47 51 AM" src="https://github.com/user-attachments/assets/4b4346c4-146b-40ed-bc2c-03964e0a6ad5" />
-
+<img width="1039" alt="Screenshot 2025-06-15 at 8 47 43 AM" src="https://github.com/user-attachments/assets/3e631544-7528-49ce-82b1-f77c4bcc355d" />
 <h1 align="center">Heya, there! 👋</h1>
 <h2 align = "center">I'm Enzo Basuil</h2>
 <h4 align="center">Just a regular ol' BS CpE Student getting his hands on Data Analysis, Application Development, and other software jazz. </h4>
