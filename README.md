@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [N/A (But i'll have one soon)](N/A (But i'll have one soon))
 
-- 🖌 I also like to do digital art on my art page: [https://www.artstation.com/suillustrative](https://www.artstation.com/suillustrative)
+- 🖌 I also like to do digital art on my art page: [Click Here!](https://www.artstation.com/suillustrative)
 
 - 💬 Ask me about **Fullstack Development, Project Management Skills, Playstation Games, etc.**
 
 - 📫 How to reach me **jlcbasuil@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KarIQU-1TPG_4JN4vLpbDFJJ3Opoglxh/view?usp=sharing](https://drive.google.com/file/d/1KarIQU-1TPG_4JN4vLpbDFJJ3Opoglxh/view?usp=sharing)
+- 📄 Know about my experiences [Click Here!](https://drive.google.com/file/d/1QuwvqyWrOZaTTOnWotWzbtDPVlIVzn2t/view?usp=sharing)
 
 - ⚡ Fun fact **I have the coexisting mind of a 7 year old and a 70 year old. Why? Don't ask.**
 
