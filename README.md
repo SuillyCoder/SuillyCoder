@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with: Understanding the trends of the job market and the best ways to put your foot at the door.
 
-- 👨‍💻 All of my projects are available at [N/A (But i'll have one soon)](N/A (But i'll have one soon))
+- 👨‍💻 All of my projects are available here: [Click Here!](https://suillycoder.vercel.app/)
 
 - 🖌 I also like to do digital art on my art page: [Click Here!](https://www.artstation.com/suillustrative)
 
