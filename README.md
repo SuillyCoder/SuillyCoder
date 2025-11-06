@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suillycoder&label=Profile%20views&color=0e75b6&style=flat" alt="suillycoder" /> </p>
 
-- 🔭 I’m currently working on: An artist training assistant app made to help artists hone their art skills in a fun way: [View Project Here!](https://github.com/SuillyCoder/Artistic-Regimen-Trainer-A.R.T-.git)
+- 🔭 I’m currently working on: An 'Anti-Artblock' app made to help out artists with artblock and get some creative juices flowing: [[View Project Here!](https://github.com/SuillyCoder/DoodleBuddy)]
 
 - 🌱 I’m currently learning: Logic Circuits and Design, Application Architecture, Data Analytics, and Project Management Strategies.
 
