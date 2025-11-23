@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on: An 'Anti-Artblock' app made to help out artists with artblock and get some creative juices flowing: [[View Project Here!](https://github.com/SuillyCoder/DoodleBuddy)]
 
-- 🌱 I’m currently learning: Logic Circuits and Design, Application Architecture, Data Analytics, and Project Management Strategies.
+- 🌱 I’m currently learning: Image Classification and Object Detection with ML 
 
 - 👯 I’m looking to collaborate on **(N/A atm)**
 
