@@ -1,6 +1,6 @@
 <h1 align="center">👋 Heya, there! 👋</h1>
 <h2 align = "center">I'm Enzo Basuil</h2>
-<img width="1038" alt="Screenshot 2025-06-15 at 8 47 51 AM" src="https://github.com/user-attachments/assets/d96f859d-de2d-44dc-948a-8a422b6410a6" />
+<img width="1159" height="869" alt="image" src="https://github.com/user-attachments/assets/388d9705-56dc-4bb3-8bb4-948e1459eb24" />
 </br>
 <h4 align="center">I'm a 21 year old Cebuano student dev who's currently pursuing a Bachelor of Science in Computer Engineering. Currently, I'm delving into the fields of full-stack development, data analysis and data science, systems architecture, and project management. I've got a year and some months worth of programming and development experience, and there's still more to come. Might be far from where I wanna be, but it's been a good ride so far. Let's see how further we can go...</h4>
 </br>
