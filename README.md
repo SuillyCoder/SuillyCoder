@@ -41,14 +41,14 @@
 
 
 
-# 🌐 Socials:
+# 🌐 Socials 🌐
 <a href="https://www.linkedin.com/in/jesus-lorenzo-basuil-b9150431b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus lorenzo basuil" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/jesuslorenzobasuil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/work" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009418086548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009418086548" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suillygram/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suillygram/?hl=en" height="30" width="40" /></a>
 
 
-# 💻 SOFTWARE SKILLS:
+# 💻 SOFTWARE SKILLS 💻
 
 ## Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -94,16 +94,16 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 
-# ⚡️ HARDWARE SKILLS:
+# ⚡️ HARDWARE SKILLS ⚡️
 
 ## Firmware and Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
 
-## Circuitry
+# Circuitry
 
 
-# 🌐 MISCELLANEOUS SKILLS:
+# 🌟 MISCELLANEOUS SKILLS 🌟
 
 ## Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
