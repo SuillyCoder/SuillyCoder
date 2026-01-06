@@ -118,6 +118,7 @@
 
 ## Media Management
 ![Cloudinary]("https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white")
+<img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
 
 # 🔧 Other Tools:
 
