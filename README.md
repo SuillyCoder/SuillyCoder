@@ -96,12 +96,14 @@
 
 # ⚡️ HARDWARE SKILLS ⚡️
 
-## Firmware and Embedded Systems
+## Embedded Systems Programming
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
 
-# Circuitry
-
+## Circuit Design
+<img src="https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white"/>
 
 # 🌟 MISCELLANEOUS SKILLS 🌟
 
