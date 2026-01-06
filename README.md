@@ -117,7 +117,7 @@
 [![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff&style=for-the-badge)](#)
 
 ## Media Management
-[![Cloudinary]("https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white")]
+![Cloudinary]("https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white")
 
 # 🔧 Other Tools:
 
