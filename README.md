@@ -50,6 +50,14 @@
 
 # 💻 SOFTWARE SKILLS 💻
 
+<p>I'm mostly into software, so I do my best to brush up on the relevant skills needed in the field of software (we edit it later)</p>
+
+<div style="display: flex; justify-content: space-around;">
+  <img width="1912" height="953" alt="image" src="https://github.com/user-attachments/assets/96a56b3c-a09e-4b57-b1c4-88d78e1d36d6" style="width: 30%;"/>
+  <img src="via.placeholder.com" alt="Image 2" style="width: 30%;"/>
+  <img src="via.placeholder.com" alt="Image 3" style="width: 30%;"/>
+</div>
+
 ## Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
