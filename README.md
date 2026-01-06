@@ -42,6 +42,8 @@
 
 
 # 🌐 Socials 🌐
+<p>Whether it's for software projects or just wanting a good chat, I'm always ready to stay connected and gain insights. Feel free to connect with me!</p>
+
 <a href="https://www.linkedin.com/in/jesus-lorenzo-basuil-b9150431b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus lorenzo basuil" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/jesuslorenzobasuil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/work" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009418086548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009418086548" height="30" width="40" /></a>
@@ -50,13 +52,12 @@
 
 # 💻 SOFTWARE SKILLS 💻
 
-<p>I'm mostly into software, so I do my best to brush up on the relevant skills needed in the field of software (we edit it later)</p>
+<p>Software has always been my forte, and I've been working at it, (and still am), to brush up on relevant skills and technologies. For the moment, I've mostly been delving into Full-Stack development and Data Analytics and Processing. I'm still down to learn a thing or two, so here's to never-ending learning!</p>
 
 <div style="display: flex-; justify-content: space-around;">
   <img width="1912" height="953" alt="image" src="https://github.com/user-attachments/assets/96a56b3c-a09e-4b57-b1c4-88d78e1d36d6" style="width: 35%;"/>
   <img width="1197" height="745" alt="image" src="https://github.com/user-attachments/assets/4a570123-e1f0-42f2-9ba5-e31f49e9fd81" style="width: 28%;"/>
   <img width="879" height="437" alt="Screenshot 2026-01-06 at 3 08 24 PM" src="https://github.com/user-attachments/assets/13b4c48d-ce3f-4615-928c-9bd926914c82" style="width: 35%;"/>
-
 </div>
 
 ## Languages:
@@ -111,6 +112,14 @@
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 # ⚡️ HARDWARE SKILLS ⚡️
+<p>Being a Computer Engineering student, I also have some relevant skills in Hardware and Circuit Design. I've dealt with Analog and Digital Circuit projects, both in simulation and in actual practice. I've even gotten my hands on an MCU, which I'm still tryna play around with. Of course, I'm far from good, so definitely gotta brush up on that one. 😅😅😅</p>
+
+<div style="display: flex-; justify-content: space-around;">
+  <img width="1277" height="958" alt="image" src="https://github.com/user-attachments/assets/8070f40c-5854-48be-9c89-2837f9b26dcf" style="width: 30%;"/>
+  <img width="1277" height="958" alt="image" src="https://github.com/user-attachments/assets/9b73d4e2-c7f7-4ef6-b19b-6de68adb0a1d" style="width: 30%;"/>
+  <img width="1277" height="958" alt="image" src="https://github.com/user-attachments/assets/33f57e91-318d-4661-acf5-c0083120ab9c" style="width: 30%;"/>
+</div>
+
 
 ## Embedded Systems Programming
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
@@ -122,6 +131,8 @@
 <img src="https://img.shields.io/badge/-Tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white"/>
 
 # 🌟 MISCELLANEOUS SKILLS 🌟
+
+<p>Of course, I'm proficient in other fields as well. Think of things like design, prompt engineering, project management, and etc. When the tides shift, I can go along with them, and adapt to whatever the problem at hand calls for.</p>
 
 ## Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
