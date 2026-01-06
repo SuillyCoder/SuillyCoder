@@ -75,7 +75,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/-Supabase-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/-Supabase-#3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
 
 ## Hosting: 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
