@@ -42,7 +42,8 @@
 
 
 # 🌐 Socials 🌐
-<p>Whether it's for software projects or just wanting a good chat, I'm always ready to stay connected and gain insights. Feel free to connect with me!</p>
+<p>Whether it's for software projects or just wanting a good chat, I'm always ready to stay connected and gain insights.</p>
+<p>Feel free to connect with me!</p>
 
 <a href="https://www.linkedin.com/in/jesus-lorenzo-basuil-b9150431b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus lorenzo basuil" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/jesuslorenzobasuil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/work" height="30" width="40" /></a>
