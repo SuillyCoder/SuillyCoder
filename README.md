@@ -1,5 +1,6 @@
 <h1 align="center">👋 Heya, there! 👋</h1>
 <h2 align = "center">I'm Enzo Basuil</h2>
+<h4 align = "center">You can also call me: SuillyCoder!</h4>
 <img width="1145" height="600" alt="image" src="https://github.com/user-attachments/assets/def5c9f8-f507-4d59-b3ac-037483d3ce81" />
 
 </br>
@@ -8,9 +9,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suillycoder&label=Profile%20views&color=0e75b6&style=flat" alt="suillycoder" /> </p>
 
-- 🔭 I’m currently working on: An 'Anti-Artblock' app made to help out artists with artblock and get some creative juices flowing: [[View Project Here!](https://github.com/SuillyCoder/DoodleBuddy)]
+- ⚙️ My current skill-set includes: Full-Stack Development, Data Analytics and Processing, System Architecture, and Project Management.
 
-- 🌱 I’m currently learning: Image Classification and Object Detection with ML 
+- 🔭 I’m currently working on: A Japan-Trip Itinerary Planner complete with Budget Managing, Route Optimization, Exporting Capabilities, and more: [[View Project Here!](https://github.com/SuillyCoder/ItineRyo)]
+
+- 🌱 I’m currently learning: Image Classification and Object Detection with ML
+  
+- 💡 I'd like to learn more about: Embedded Systems and Game Development (hopefully 🙏🙏🙏)
 
 - 👯 I’m looking to collaborate on **(N/A atm)**
 
@@ -70,6 +75,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/-Supabase-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ## Hosting: 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -82,10 +88,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Data Analysis: 
-
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 
 ## AI
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
