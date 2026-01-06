@@ -53,9 +53,9 @@
 <p>I'm mostly into software, so I do my best to brush up on the relevant skills needed in the field of software (we edit it later)</p>
 
 <div style="display: flex-; justify-content: space-around;">
-  <img width="1912" height="953" alt="image" src="https://github.com/user-attachments/assets/96a56b3c-a09e-4b57-b1c4-88d78e1d36d6" style="width: 30%;"/>
+  <img width="1912" height="953" alt="image" src="https://github.com/user-attachments/assets/96a56b3c-a09e-4b57-b1c4-88d78e1d36d6" style="width: 35%;"/>
   <img width="1197" height="745" alt="image" src="https://github.com/user-attachments/assets/4a570123-e1f0-42f2-9ba5-e31f49e9fd81" style="width: 30%;"/>
-  <img width="879" height="437" alt="Screenshot 2026-01-06 at 3 08 24 PM" src="https://github.com/user-attachments/assets/13b4c48d-ce3f-4615-928c-9bd926914c82" style="width: 30%;"/>
+  <img width="879" height="437" alt="Screenshot 2026-01-06 at 3 08 24 PM" src="https://github.com/user-attachments/assets/13b4c48d-ce3f-4615-928c-9bd926914c82" style="width: 35%;"/>
 
 </div>
 
