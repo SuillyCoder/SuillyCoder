@@ -158,7 +158,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?SuillyCoder=vn7n24fzkq&theme=default)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SuillyCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800)
+![](https://github-profile-trophy.vercel.app/?username=suillycoder&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SuillyCoder&limit=5&theme=dracula&combine_all_yearly_contributions=true&cache_seconds=1800)
