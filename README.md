@@ -155,7 +155,7 @@
  
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?SuillyCoder=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuillyCoder=vn7n24fzkq&theme=default)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=suillycoder&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800)
