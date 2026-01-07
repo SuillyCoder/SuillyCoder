@@ -155,9 +155,7 @@
  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SuillyCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SuillyCoder&theme=dark&hide_border=false&cache_seconds=1800)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuillyCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?SuillyCoder=vn7n24fzkq&theme=default)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SuillyCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800)
