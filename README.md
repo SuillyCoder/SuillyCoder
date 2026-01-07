@@ -156,6 +156,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuillyCoder&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuillyCoder&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuillyCoder&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuillyCoder&theme=default)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SuillyCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
