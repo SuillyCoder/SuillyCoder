@@ -154,7 +154,7 @@
 <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
  
 
-# 📊 GitHub Stats:
+# 📊 GITHUB STATS:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuillyCoder&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuillyCoder&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuillyCoder&theme=default)
@@ -163,10 +163,10 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=SuillyCoder&theme=onedark)](https://github.com/SuillyCoder/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=SuillyCoder&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7)
 
 ### 🔝 Top Contributed Repo
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuillyCoder&theme=default&utcOffset=8)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SuillyCoder&icon=2&color=0)](https://visitcount.itsvg.in)
