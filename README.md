@@ -155,18 +155,18 @@
  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SuillyCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SuillyCoder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuillyCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SuillyCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SuillyCoder&theme=dark&hide_border=false&cache_seconds=1800)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuillyCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SuillyCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SuillyCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SuillyCoder&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SuillyCoder&limit=5&theme=dracula&combine_all_yearly_contributions=true&cache_seconds=1800)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SuillyCoder&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SuillyCoder&icon=2&color=0)](https://visitcount.itsvg.in&cache_seconds=1800)
 
 
 </div>
