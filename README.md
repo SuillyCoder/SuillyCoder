@@ -155,16 +155,17 @@
  
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuillyCoder=vn7n24fzkq&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuillyCoder&theme=default)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suillycoder&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800)
+![](https://github-profile-trophy.vercel.app/?username=SuillyCoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?SuillyCoder=vn7n24fzkq&theme=default&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SuillyCoder&theme=default&utcOffset=8)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SuillyCoder&icon=2&color=0)](https://visitcount.itsvg.in&cache_seconds=1800)
+[![](https://visitcount.itsvg.in/api?id=SuillyCoder&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 
 </div>
