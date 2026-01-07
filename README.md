@@ -161,7 +161,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=suillycoder&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=1800)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SuillyCoder&limit=5&theme=dracula&combine_all_yearly_contributions=true&cache_seconds=1800)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?SuillyCoder=vn7n24fzkq&theme=default&utcOffset=8)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SuillyCoder&icon=2&color=0)](https://visitcount.itsvg.in&cache_seconds=1800)
