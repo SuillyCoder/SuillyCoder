@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on: A Japan-Trip Itinerary Planner complete with Budget Managing, Route Optimization, Exporting Capabilities, and more: [[View Project Here!](https://github.com/SuillyCoder/ItineRyo)]
 
-- 🌱 I’m currently learning: Image Classification and Object Detection with ML
+- 🌱 I’m currently learning: Fundamentals of AI and Machine Learning with Python
   
 - 💡 I'd like to learn more about: Embedded Systems and Game Development (hopefully 🙏🙏🙏)
 
