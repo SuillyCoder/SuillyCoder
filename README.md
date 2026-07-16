@@ -4,7 +4,7 @@
 <img width="1145" height="600" alt="image" src="https://github.com/user-attachments/assets/def5c9f8-f507-4d59-b3ac-037483d3ce81" />
 
 </br>
-<h4 align="center">I'm a 21 year old Cebuano student dev who's currently pursuing a Bachelor of Science in Computer Engineering. Currently, I'm delving into the fields of full-stack development, data analysis and data science, systems architecture, and project management. I've got a year and some months worth of programming and development experience, and there's still more to come. Might be far from where I wanna be, but it's been a good ride so far. Let's see how further we can go...</h4>
+<h4 align="center">I'm a 22 year old Cebuano student dev who's currently pursuing a Bachelor of Science in Computer Engineering. Currently, I'm delving into the fields of full-stack development, data analysis and data science, systems architecture, and project management. I've got a year and some months worth of programming and development experience, and there's still more to come. Might be far from where I wanna be, but it's been a good ride so far. Let's see how further we can go...</h4>
 </br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suillycoder&label=Profile%20views&color=0e75b6&style=flat" alt="suillycoder" /> </p>
