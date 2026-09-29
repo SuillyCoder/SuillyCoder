@@ -11,7 +11,7 @@
 
 - ⚙️ My current skill-set includes: Full-Stack Development, Data Science, Computer Vision, Artificial Intelligence, Machine Learning.
 
-- 🔭 I’m currently working on: A local voice-activated AI Assistant that's capable of API Fetching, Automated Tasks, Device Control and Management, Computer Vision, and etc.: [[View Project Here!](https://github.com/SuillyCoder/ZZZ_Fairy)]
+- 🔭 I’m currently working on: A local voice-activated AI Assistant that's capable of API Fetching, Automated Tasks, Device Control and Management, Computer Vision, and etc.: [View Project Here!](https://github.com/SuillyCoder/ZZZ_Fairy)
 
 - 🌱 I’m currently learning: Fundamentals of AI and Machine Learning with Python
   
