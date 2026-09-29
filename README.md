@@ -11,7 +11,7 @@
 
 - ⚙️ My current skill-set includes: Full-Stack Development, Data Analytics and Processing, System Architecture, and Project Management.
 
-- 🔭 I’m currently working on: A Japan-Trip Itinerary Planner complete with Budget Managing, Route Optimization, Exporting Capabilities, and more: [[View Project Here!](https://github.com/SuillyCoder/ItineRyo)]
+- 🔭 I’m currently working on: A local voice-activated AI Assistant that's capable of API Fetching, Automated Tasks, Device Control and Management, Computer Vision, and etc.: [[View Project Here!](https://github.com/SuillyCoder/ZZZ_Fairy)]
 
 - 🌱 I’m currently learning: Fundamentals of AI and Machine Learning with Python
   
@@ -29,7 +29,7 @@
 
 - 📫 How to reach me:  **jlcbasuil@gmail.com**
 
-- 📄 Know about my experiences:  [Click Here!](https://drive.google.com/file/d/1EGhgy_5vgRZcZdhugx6ue0B-HPnv_pWC/view?usp=sharing)
+- 📄 Know about my experiences:  [Click Here!](https://drive.google.com/file/d/1OGibX_8-0r7rJzQWo72ghJ3hagDisaGb/view?usp=sharing)
 
 - ⚡ Fun fact **I have the coexisting mind of a 7 year old and a 70 year old. Why? Don't ask.**
 
