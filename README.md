@@ -136,8 +136,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](#)
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-[![SolidWorks](https://img.shields.io/badge/SolidWorks-E23B3B?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](#)
 ![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)](#)
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-E23B3B?style=for-the-badge&logo=dassaultsystemes&logoColor=white)](#)
 
 ## AI
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
