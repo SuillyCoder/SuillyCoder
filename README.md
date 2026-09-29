@@ -112,7 +112,7 @@
 
 ## Image Processing and Object Detection
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)](#)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 # ⚡️ HARDWARE SKILLS ⚡️
 <p>Being a Computer Engineering student, I also have some relevant skills in Hardware and Circuit Design. I've dealt with Analog and Digital Circuit projects, both in simulation and in actual practice. I've even gotten my hands on an MCU, which I'm still tryna play around with. Of course, I'm far from good, so definitely gotta brush up on that one. 😅😅😅</p>
