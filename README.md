@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning: Fundamentals of AI and Machine Learning with Python
   
-- 💡 I'd like to learn more about: Embedded Systems and Game Development (hopefully 🙏🙏🙏)
+- 💡 I'd like to learn more about: Cloud Infrastructure, Systems Architecture, and Game Development (hopefully 🙏🙏🙏)
 
 - 👯 I’m looking to collaborate on **(N/A atm)**
 
